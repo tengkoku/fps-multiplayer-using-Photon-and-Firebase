@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85327767046",
+    "project_id": "multiplayerv2-b2fd7",
+    "storage_bucket": "multiplayerv2-b2fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85327767046:android:2b3b3d81e0fb1dcbfe0587",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Multiplayerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85327767046-e7rk4ph11en34b39o9m2renql824bj61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_9EEzId9FSoUBFGZf8SH1fF2rr7jXuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85327767046-e7rk4ph11en34b39o9m2renql824bj61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
